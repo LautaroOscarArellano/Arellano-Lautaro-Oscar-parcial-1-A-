@@ -1,1 +1,2 @@
-print("hola")
+x=30 
+print(x)
